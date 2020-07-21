@@ -153,10 +153,12 @@ form input {
   color: white;
 }
 .sendBtn {
-  padding: 15px;
+  padding: 10px;
   background-color: #27ae60;
   font-weight: 600;
-  border-radius: 10px;
+  border: none;
+  width: 100px;
+  border-radius: 20px;
   color: black;
 }
 .sendBtn:hover {
